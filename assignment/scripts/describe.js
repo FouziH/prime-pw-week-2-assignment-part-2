@@ -135,6 +135,9 @@ if (number >= 2) {
 // colorTwo is set to 'red', and mix is set to true. We check if mix is true
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
+
+//Issue: colorOne is set to purple but colorTwo has not been reassigned to purple
+//Fix - set colorOne =colorTwo = "purple"
 /*
 let colorOne = 'red';
 let colorTwo = 'blue';
@@ -149,6 +152,10 @@ if (mix === true) {
 // We check if temp is higher than 39 and if time is greater or equal to  4
 // -- they are so we console.log 'throw away the food!'
 
+
+// Issue: And keys word, the code is or which will make the if statement true
+// fix - We need to change || to &&
+
 /*
 let temp = 40;
 const time = 4;
@@ -161,6 +168,8 @@ if (temp > 39 || time >= 4) {
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
 // We check if age is greater than or equal to minAge
 // -- it is, so we console.log 'enter'.
+
+//issue:
 
 /*
 let age = 21;
