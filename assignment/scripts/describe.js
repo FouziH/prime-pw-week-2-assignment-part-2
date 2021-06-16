@@ -27,9 +27,9 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
+// we are assigning name to Dane
+// if name is equal to Mary, log to the console "say Hi"
+//else log to the console "How do you do?"
 //
 
 //CODE
@@ -46,10 +46,11 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
-//
+//we are declaring sectet but are not assigning any value
+//we are declaring secret and assiging 123 to it
+//the if statement: if code is equal to 123, assign 123 to the secret variable, also code is equal to code * 2
+//the if statement part 2: if code is greater 250 , assign secret to "duper"
+//finally, we are log secret to console
 
 //CODE
 /*
@@ -71,10 +72,11 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
-//
+// we declare isStudent and set it to true
+//declare age and set it to 34
+//declare zipcode and set it 55407
+// if the variable isStudent is === true and zip is greater tahn 8000,
+//log to console "You're a student aon the west coast! "
 
 //CODE
 /*
