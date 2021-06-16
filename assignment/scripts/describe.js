@@ -169,7 +169,8 @@ if (temp > 39 || time >= 4) {
 // We check if age is greater than or equal to minAge
 // -- it is, so we console.log 'enter'.
 
-//issue:
+//issue: <=. It should be >= and
+// to fix: We need to change the condition to >= and we need to change no entery to enter and set the else to log no entery
 
 /*
 let age = 21;
