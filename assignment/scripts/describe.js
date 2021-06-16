@@ -74,9 +74,12 @@ console.log(secret)
 // 3. WRITE YOUR DESCRIPTION HERE
 // we declare isStudent and set it to true
 //declare age and set it to 34
-//declare zipcode and set it 55407
-// if the variable isStudent is === true and zip is greater tahn 8000,
-//log to console "You're a student aon the west coast! "
+//declare zip and set it 55407
+// if the variable isStudent is equal to true and zip is greater tahn 8000,
+//log to console "You're a student aon the west coast!";
+//else if the isStudent is equal to false  or age is less than 30,
+//log "Welcome to prime " to console;
+//else log "How about the weather?" to console
 
 //CODE
 /*
